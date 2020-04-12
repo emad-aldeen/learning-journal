@@ -1,43 +1,26 @@
-## Welcome to GitHub Pages
-# 3madov
+## Welcome to My First GitHub Pages
+# Who am i :
+
+ Im a student in LTUC cooding course my name is Emad alzoubi (3madov as many of you know me)
+im aiming to be a sowftware engenier in the future (inShalah) and i have many skils im traying to improve:
+
+- [x] ***improve my typing skils***
+- [ ] ***Finish my courses very well***
+- [x] ***learn more about Web Devolpment***
+- [x] ***improve my English languge***
+
+So iam also aiming to have an opening **Growth Mind** and im working on do that by seviral `steps`:
+
+>### 1. being Respectable:
+***R***espect the other and how they think `thats not meaning to agree them at all..`
+ but we have to respect the way they think who ever they are..
+
+>### 2. Challenges:
+***W***
 
 
-- [x] Finish my changes
-- [ ] Push my commits to GitHub
-- [ ] Open a pull request
 
-You can use the [editor on GitHub](https://github.com/3madov-77/learning-journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[You Can Contact Me here](https://3madov-77.github.io/learning-journal/contcatme)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/3madov-77/learning-journal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+// photo linked
