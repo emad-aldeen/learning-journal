@@ -12,10 +12,10 @@ will **GitHub** uses his own version of markdown and provide to you a way to sha
   ## What you can do with Markdown GitHub verson :
   
   you can do alot of extras best of them:
- . ***Droping photos*** by just drag it
- . ***Making Lists***
- . ***Inline codes***
- . ***Sharing Links*** like:
+ - ***Droping photos*** by just drag it
+ - ***Making Lists***
+ - ***Inline codes***
+ - ***Sharing Links*** like:
  [You Can Read More Here}(https://guides.github.com/features/mastering-markdown/)
  
  it looks like:
@@ -28,6 +28,6 @@ Its tool that helps you to transforms paln text to weeb sites and support varubl
 you can learn more about [here](https://jekyllrb.com/)
 
 ## Also we can use markdown in :
-. **Gists**
-. **In comments and pull Requests**
-. **Files with the `.md`
+- **Gists**
+- **In comments and pull Requests**
+- **Files with the `.md`
