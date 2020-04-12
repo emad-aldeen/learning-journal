@@ -35,10 +35,10 @@ so the `steps` is:
 # What You Will Gain Else :
 will the:
 ```
-. **Growth Mindset** will help you to be better teammate in your team and with others
-. **Growth Mindset** let you look to your self postively ass success person
-. **Growth Mindset** help you to grow inside your job and outside it
-. **Growth Mindset** can be your friend to achive more and more
+. *Growth Mindset* will help you to be better teammate in your team and with others
+. *Growth Mindset* let you look to your self postively ass success person
+. *Growth Mindset* help you to grow inside your job and outside it
+. *Growth Mindset* can be your friend to achive more and more
 ```
 
 # My 3 Secret Weapons To Keep **Growth Mindset** :
@@ -50,9 +50,9 @@ will the:
 
 3. ***Start*** always from the roots
 
->### A nice technic that i heard about with is: Write a **Self-Assessment** daily..it helps you to know what youv done.
+>### A nice technic that i heard about: Write a **Self-Assessment** daily..it helps you to know what youv done.
 
-and thats it till now.
+and thats it till now and thak you for reading.
 
 
 
