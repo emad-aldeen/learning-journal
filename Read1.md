@@ -16,18 +16,18 @@ will **GitHub** uses his own version of markdown and provide to you a way to sha
  - ***Making Lists***
  - ***Inline codes***
  - ***Sharing Links*** like:
- [You Can Read More Here}(https://guides.github.com/features/mastering-markdown/)
+ [You Can Read More Here](https://guides.github.com/features/mastering-markdown/)
  
  it looks like:
 ```
-[You Can Read More Here}(https://guides.github.com/features/mastering-markdown/)
+[You Can Read More Here](https://guides.github.com/features/mastering-markdown/)
 ```
 
-## What is JEYKLE :
+## What is JEKYLL :
 Its tool that helps you to transforms paln text to weeb sites and support varubls, drafts and templets.
 you can learn more about [here](https://jekyllrb.com/)
 
 ## Also we can use markdown in :
 - **Gists**
 - **In comments and pull Requests**
-- **Files with the `.md`**
+- **Files with end `.md`**
