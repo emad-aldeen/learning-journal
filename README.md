@@ -23,4 +23,6 @@ So iam also aiming to have an opening **Growth Mind** and im working on do that 
 
 [You Can Contact Me here](https://3madov-77.github.io/learning-journal/contcatme)
 
+
+// home works will be here with links..
 // photo linked
