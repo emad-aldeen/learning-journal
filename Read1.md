@@ -30,4 +30,4 @@ you can learn more about [here](https://jekyllrb.com/)
 ## Also we can use markdown in :
 - **Gists**
 - **In comments and pull Requests**
-- **Files with the `.md`
+- **Files with the `.md`**
