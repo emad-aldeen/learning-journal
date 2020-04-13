@@ -48,3 +48,9 @@ will the:
 >### A nice technic that i heard about: Write a **Self-Assessment** daily..it helps you to know what youv done.
 
 and thats it till now and thank you for reading.
+
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ [`Back To The Main Page`](https://3madov-77.github.io/learning-journal/)
