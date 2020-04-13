@@ -31,3 +31,11 @@ you can learn more about [here](https://jekyllrb.com/)
 - **Gists**
 - **In comments and pull Requests**
 - **Files with end `.md`**
+
+
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ [`Back To The Main Page`](https://3madov-77.github.io/learning-journal/)
+
