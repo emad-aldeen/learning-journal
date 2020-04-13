@@ -30,20 +30,29 @@ it depends on :
 
 When you know what needs be on your site, you can start to organize the information which called **Site Map**
 which help you to see how those pages can be grouped togather, and will inform users how to navigate in the site, it usually begin with the homepage
-to make it simple to you this pic will show you simply how the map looks like: <br>
-(pic about the map how it looks) 
+to make it simple to you this pic will show you simply how the map looks like: 
+<br>
+
+
+![sitemap](https://3madov-77.github.io/learning-journal/New%20folder/Capture1.PNG) 
+
 
 - ## Always start with sketchs :
 **sketchs** helps you to ensure that all of the information that you need to be on a page is included,no need to include the colors or fonts styles or backgrounds or images, It should focus on what information needs to be on each page and create a visual hierarchy to indicate the most important parts of each page,
 **sketchs** helps you to give a small picture to your client about what the weeb design will look like
 
 ### Where you can **sketchs** ?
-***NO*** need for any compliments it all what you can use is (a Paper and Pen)!
+***NO*** need for any compliments it all what you can use is 
+
+![skitch](a Paper and Pen)!
 
 There are also online sketchs tools that can helps you like:
 [gomockingbird](http://gomockingbird.com) OR [lovelycharts](http://lovelycharts.com)
 
-Example how sketches looks : (the pic that i made yesterday)
+Example how sketches looks : 
+
+
+![skitch](https://3madov-77.github.io/learning-journal/New%20folder/home.png)
 
 <br>
 <br>
@@ -115,11 +124,6 @@ And to help web pages authors move to this new syntax, three main flavors of XHT
 *Released 2000*, wich we will describe more about later...
 
 <br>
-<br>
- 
-
-<br>
-<br>
 <hr>
 <br>
 
@@ -127,29 +131,51 @@ SO Now its time to know about vast majority elments on the web by HTML5:
 
 Starting with the famous ever:
 
-- ### `<!DOCTYPE>` : Because there have been several versions of HTML, each web page should begin with a **DOCTYPE** declaration to tell a browser which version of HTML the page is using and every version was looks defernt notice the picture: (capture 0b)
+- ### `<!DOCTYPE>` : Because there have been several versions of HTML, each web page should begin with a **DOCTYPE** declaration to tell a browser which version of HTML the page is using and every version was looks defernt notice the picture:
+
+![0b](https://3madov-77.github.io/learning-journal/New%20folder/Capture%200b.PNG)
 
 
 - ### `<meta>` : is an empty element, lives inside the `<head>` element It is not visible to users,It uses attributes to
-carry the information and looks like: (capture 7c)
+carry the information and looks like: 
 
-- ### `<dev>` : witch is basicly container for the other elments on the page or the (**father**) like what they call (caputer 1b)
+![0b](https://3madov-77.github.io/learning-journal/New%20folder/Capture%207c.PNG)
 
-- ### `<span>` : its inline tag witch groubing text and elments in the same line and looks like: (capture 6c) 
+- ### `<dev>` : witch is basicly container for the other elments on the page or the (**father**) like what they call 
 
-- ### `<header> <footer>` : witch use to know the header or footer of article or sction or page like this ex: (capture 2b)
+![0b](https://3madov-77.github.io/learning-journal/New%20folder/Capture%201b.PNG)
 
-- ### `<nav>` : witch is alway container for unorderd lists `**<ul>**` or orderd lists `**<ol>**` and looks like: (capture 3b)
+- ### `<span>` : its inline tag witch groubing text and elments in the same line and looks like: 
 
-- ### `<article>` : witch is container for difrent sections `**<section>**` and used like: (cabture 4b) 
+![0b](https://3madov-77.github.io/learning-journal/New%20folder/Capture%206c.PNG)
 
-- ### `<aside>` : it depending on whether if it is inside `<article>` OR outside it and sometimes used as **side Bars** container and be like: (capture 5b)
+- ### `<header> <footer>` : witch use to know the header or footer of article or sction or page like this ex: 
 
-- ### `<section>` : witch grouping the content together EX: (captuer 6b)
+![0b](https://3madov-77.github.io/learning-journal/New%20folder/Capture%202b.PNG)
 
-- ### `<hgroup>` : it used to group headers togther EX: (capture 7b)
+- ### `<nav>` : witch is alway container for unorderd lists `**<ul>**` or orderd lists `**<ol>**` and looks like: 
 
-- ### `<figure>` OR `<figcaption>` : witch used to contain any content that is referenced like photos or videos or even aoudios and looks like: (capture 8b)
+![0b](https://3madov-77.github.io/learning-journal/New%20folder/Capture%203b.PNG)
+
+- ### `<article>` : witch is container for difrent sections `**<section>**` and used like: 
+
+![0b](https://3madov-77.github.io/learning-journal/New%20folder/Capture%204b.PNG)
+
+- ### `<aside>` : it depending on whether if it is inside `<article>` OR outside it and sometimes used as **side Bars** container and be like: 
+
+![0b](https://3madov-77.github.io/learning-journal/New%20folder/Capture%205b.PNG)
+
+- ### `<section>` : witch grouping the content together EX: 
+
+![0b](https://3madov-77.github.io/learning-journal/New%20folder/Capture%206b.PNG)
+
+- ### `<hgroup>` : it used to group headers togther EX: 
+
+![0b](https://3madov-77.github.io/learning-journal/New%20folder/Capture%207b.PNG)
+
+- ### `<figure>` OR `<figcaption>` : witch used to contain any content that is referenced like photos or videos or even aoudios and looks like: 
+
+![0b](https://3madov-77.github.io/learning-journal/New%20folder/Capture%208b.PNG)
 
 - ### `<iframe>` : its most like a window to other pages or weebsites and the commoun use to is to embed a Google Map into a page, and use alot attributes like :
 1) **src**
@@ -168,13 +194,17 @@ a border or not, ***A value of 0*** indicates that no border should be shown. **
 ## Escape Characters:
 thay are bunch of charcters that that are used in and reserved by HTML code, *When using escape characters, it is important to check the page in your browser to ensure that the correct symbol shows up. This is because some fonts do not support all of these characters and you might therefore need to specify a different font for these characters in your CSS code
 There are also special codes that can be used to show symbols such as copyright and trademark, currency symbols, 
-mathematical characters, and some punctuation marks... like: (capture D)
+mathematical characters, and some punctuation marks... like:
+
+![0b](https://3madov-77.github.io/learning-journal/New%20folder/Capture%20D.PNG)
 <br>
 <hr>
 <br>
 
 ## Comments On HTML :
-so biscly the comments used to describe what hapinig inside the code and its **unvisble** to the users, it also helps you to keep tracking your code, and let it easy to find bugs and fixed it, in HTML it looks like: `<!-- comment goes here -->` or (capture 1c) 
+so biscly the comments used to describe what hapinig inside the code and its **unvisble** to the users, it also helps you to keep tracking your code, and let it easy to find bugs and fixed it, in HTML it looks like: `<!-- comment goes here -->` or 
+
+![0b](https://3madov-77.github.io/learning-journal/New%20folder/Capture%201c.PNG) 
 <br>
 <hr>
 <br>
@@ -183,11 +213,17 @@ so biscly the comments used to describe what hapinig inside the code and its **u
 there is alot of **Attributes** in HTML but the important and much used in community is :
 
 ### - ID :
-which every element carry one, Its value should start with a letter or an underscore (not a number or any other character), and we use it in other program languges to call that element, and looks like :(capture 2c)
+which every element carry one, Its value should start with a letter or an underscore (not a number or any other character), and we use it in other program languges to call that element, and looks like :
+
+![0b](https://3madov-77.github.io/learning-journal/New%20folder/Capture%202c.PNG)
+
 <br>
 
 ### - Class:
-Its value should describe the class it belongs to, you can find it in many elements and used to call bunch of elements togather and give them specific fetures or style and looks like :(capture 3c)
+Its value should describe the class it belongs to, you can find it in many elements and used to call bunch of elements togather and give them specific fetures or style and looks like :
+
+![0b](https://3madov-77.github.io/learning-journal/New%20folder/Capture%203c.PNG)
+
 <br>
 <hr>
 <br>
@@ -203,13 +239,18 @@ comment** to ther code to cheak if the browser was IE8 or older, ***so the code 
 ## Elements:
 so there is tow kinds of **elements** on HTML the :
 *** 1. Blocked *** (witch is some elements witch always appear to start on a new line in the browser window) Like: (capture 4c)
-*** 2. Inline *** (witch is some elements will always appear to continue on the same line) Like: (capture 5c)
+*** 2. Inline *** (witch is some elements will always appear to continue on the same line) Like: 
+
+![0b](https://3madov-77.github.io/learning-journal/New%20folder/Capture%205c.PNG)
+
 <br>
 <hr>
 <br>
 
 ### Example of HTML5 :
-(capture 9b)
+
+
+![0b](https://3madov-77.github.io/learning-journal/New%20folder/Capture%209b.PNG)
 
 **Notice**:
 - The header and footer of the page sit inside <header> and <footer> Elements
