@@ -4,7 +4,7 @@ it is markup hyper language that allows you to :
  1. ### Style text on the web with a few none-alphabetic charcters
  2. ### Add some (tables, lists, images, headers, codes and Extras...) to your webpage
  
-#GitHub and Mrkdown:
+# GitHub and Mrkdown:
 will **GitHub** uses his own version of markdown and provide to you a way to share your content with all the world
  there is no database to setup or servers to confiugre! will **GitHub** even helps you to creat your webpage and projects
   and give you a personal URL conatain it
