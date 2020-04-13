@@ -33,18 +33,21 @@ As i always say:
  
 |           Topic                |                          The link to get                         |
 | ------------------------------ |:----------------------------------------------------------------:|
-|      Growth Mindset (lab1b)    | https://3madov-77.github.io/learning-journal/Growth-Mindset      |
-|          Read1                 | https://3madov-77.github.io/learning-journal/Read1               |
-| Choosing a Text Editor (Read2) | https://3madov-77.github.io/learning-journal/ChoosingaTextEditor |
-|       Terminal (Read2)         | https://3madov-77.github.io/learning-journal/Terminal            |
+|      Growth Mindset (lab1b)    | https://3madov-77.github.io/learning-journal/Growth-Mindset  [here](https://3madov-77.github.io/learning-journal/Growth-Mindset)      |
+|          Read1                 | https://3madov-77.github.io/learning-journal/Read1  [here](https://3madov-77.github.io/learning-journal/Read1)               |
+| Choosing a Text Editor (Read2) | https://3madov-77.github.io/learning-journal/ChoosingaTextEditor  [here](https://3madov-77.github.io/learning-journal/ChoosingaTextEditor) |
+|       Terminal (Read2)         | https://3madov-77.github.io/learning-journal/Terminal [here](https://3madov-77.github.io/learning-journal/Terminal)            |
 
 
 
-### You can always contact me :
+# You can always contact me :
 
 ![logo](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Conact me")
-ON ![GH](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png) [Git Hub](https://github.com/3madov-77)
+ON ![GH](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+ ---------------- [Git Hub](https://github.com/3madov-77) ----------------
 
-Or Email Me ON ![gmail](https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png) Emadzxy7@gmail.com
+Or Email Me ON
+![gmail](https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png)
+ ---------------- Emadzxy7@gmail.com ----------------
 
 
