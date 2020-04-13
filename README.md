@@ -33,10 +33,11 @@ As i always say:
  
 |           Topic                |                          The link to get                         |
 | ------------------------------ |:----------------------------------------------------------------:|
-|      Growth Mindset (lab1b)    | https://3madov-77.github.io/learning-journal/Grouth-Mindset  [here](https://3madov-77.github.io/learning-journal/Grouth-Mindset)      |
-|          Read1                 | https://3madov-77.github.io/learning-journal/Read1  [here](https://3madov-77.github.io/learning-journal/Read1)               |
-| Choosing a Text Editor (Read2) | https://3madov-77.github.io/learning-journal/ChoosingaTextEditor  [here](https://3madov-77.github.io/learning-journal/ChoosingaTextEditor) |
-|       Terminal (Read2)         | https://3madov-77.github.io/learning-journal/Terminal [here](https://3madov-77.github.io/learning-journal/Terminal)            |
+|      Growth Mindset (lab1b)    | https://3madov-77.github.io/learning-journal/Grouth-Mindset  *[here](https://3madov-77.github.io/learning-journal/Grouth-Mindset)      |
+|          Read1                 | https://3madov-77.github.io/learning-journal/Read1  *[here](https://3madov-77.github.io/learning-journal/Read1)               |
+| Choosing a Text Editor (Read2) | https://3madov-77.github.io/learning-journal/ChoosingaTextEditor  *[here](https://3madov-77.github.io/learning-journal/ChoosingaTextEditor) |
+|       Terminal (Read2)         | https://3madov-77.github.io/learning-journal/Terminal *[here](https://3madov-77.github.io/learning-journal/Terminal)            |
+|       HTML (Read4)         | https://3madov-77.github.io/learning-journal/HTML *[here](https://3madov-77.github.io/learning-journal/HTML)            |
 
 
 
