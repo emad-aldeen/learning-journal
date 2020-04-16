@@ -38,6 +38,9 @@ As i always say:
 | Choosing a Text Editor (Read2) | https://3madov-77.github.io/learning-journal/ChoosingaTextEditor  *[here](https://3madov-77.github.io/learning-journal/ChoosingaTextEditor) |
 |       Terminal (Read2)         | https://3madov-77.github.io/learning-journal/Terminal *[here](https://3madov-77.github.io/learning-journal/Terminal)            |
 |       HTML (Read4)         | https://3madov-77.github.io/learning-journal/HTML *[here](https://3madov-77.github.io/learning-journal/HTML)            |
+JS And Webpages (Read06a)|https://3madov-77.github.io/learning-journal/Read06a *[here](https://3madov-77.github.io/learning-journal/Read06a)|
+Computers The Machine (read06b)| https://3madov-77.github.io/learning-journal/computers *[here](https://3madov-77.github.io/learning-journal/computers)|
+| Some JS (Read07)| https://3madov-77.github.io/learning-journal/Read07 * [here](https://3madov-77.github.io/learning-journal/Read07)|
 
 
 

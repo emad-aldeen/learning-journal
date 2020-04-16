@@ -49,4 +49,7 @@ after creating the function it will stay there wating for call to start, and thi
 sometimes the function needs specafic information to use in and it will be inside the paranthases acting like varubles only inside the function.. like: `function pluse(x, y){}`, and we must let th last step of the function in this case is to return the varubles like: `function pluse(x, y){(the steps); return x + y}`
 and when we call that kind of functions we must to mention the informations value inside the paranthses like: `pluse(5, 6)`
 
- 
+<br>
+<hr>
+<br>
+[`Back To The Main Page`](https://3madov-77.github.io/learning-journal/)
