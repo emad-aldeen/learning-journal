@@ -58,6 +58,39 @@ it just takes a single boolean value and inverts it
 
 ![cap](https://3madov-77.github.io/learning-journal/New%20folder/Capture-8-9a.PNG)
 
+# Loops :
+its another kind of cheak conditions, if it returns **true** the code after will run, then it will recheak again if it is still return true and keep cheak and run until returns **flse**
+and there is 3 typs of loops:
+![cap](https://3madov-77.github.io/learning-journal/New%20folder/Capture-8-1b.PNG)
+
+### 1. FOR : it is usually a counter which is used to tell how many times loop should run..
+
+### 2. WHILE : you can use while if you dont know how many times the code will keep loop, it will keep loop until the condition is true and its like :
+
+![cap](https://3madov-77.github.io/learning-journal/New%20folder/Capture-8-8b.PNG)
+
+### 3. DO WHILE : its same of ehile loop but in difference: it will always run thr statments inside the curly braces at least once, even if the condation evaluates to false..
+
+## Loops Counters :
+when the loop used to counter for how many times it should repeat, so the counters loops must had 3 main sections:
+1. **Initialization** : wich it basicly creating the varuble inside the loop
+
+![cap](https://3madov-77.github.io/learning-journal/New%20folder/Capture-8-2b.PNG)
+
+2. **Condition** : the loop should continue to run until the counter reaches specified number
+
+![cap](https://3madov-77.github.io/learning-journal/New%20folder/Capture-8-3b.PNG)
+
+3. **Update** : evrey time the has run the statment in the curly braces, it will adds the update to the varuble (it is usualy adds 1) like:
+
+![cap](https://3madov-77.github.io/learning-journal/New%20folder/Capture-8-4b.PNG)
+
+So simply looping be something like :
+
+![cap](https://3madov-77.github.io/learning-journal/New%20folder/Capture-8-5b.PNG)
+
+![cap](https://3madov-77.github.io/learning-journal/New%20folder/Capture-8-6b.PNG) ![cap](https://3madov-77.github.io/learning-journal/New%20folder/Capture-8-7b.PNG)
+
 <br>
 <hr>
 <br>

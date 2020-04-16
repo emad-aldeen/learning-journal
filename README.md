@@ -41,7 +41,7 @@ As i always say:
 JS And Webpages (Read06a)|https://3madov-77.github.io/learning-journal/Read06a *[here](https://3madov-77.github.io/learning-journal/Read06a)|
 Computers The Machine (read06b)| https://3madov-77.github.io/learning-journal/computers *[here](https://3madov-77.github.io/learning-journal/computers)|
 | Some JS (Read07)| https://3madov-77.github.io/learning-journal/Read07 * [here](https://3madov-77.github.io/learning-journal/Read07)|
-|Logical Evaluating Conditions(Read08)| https://3madov-77.github.io/learning-journal/Read08 * [here](https://3madov-77.github.io/learning-journal/Read08)|
+|Logical Evaluating Conditions And Loops(Read08)| https://3madov-77.github.io/learning-journal/Read08 * [here](https://3madov-77.github.io/learning-journal/Read08)|
 
 
 
