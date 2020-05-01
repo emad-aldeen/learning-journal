@@ -54,14 +54,14 @@ Computers The Machine (Read06b)| https://3madov-77.github.io/learning-journal/co
 
  ***GH  ON :***
 
- ---------------------------![logo](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Conact me" ) ---------------------------
+  --------------------------------------------------------------![logo](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Conact me" )  --------------------------------------------------------------
 [![alt text](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png "Click ME" )](https://github.com/3madov-77)
- --------------------------------------------------------------
+ ----------------------------------------------------------------------------------------------------------------------------
 
 ***Or Email Me ON :***
 
----------------------------![logo](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Conact me")---------------------------
+ --------------------------------------------------------------![logo](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Conact me") --------------------------------------------------------------
 [![alt text](https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png "Click ME")](Emadzxy7@gmail.com)
- --------------------------------------------------------------
+ ----------------------------------------------------------------------------------------------------------------------------
 
 
