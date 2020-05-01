@@ -1,4 +1,4 @@
-a## Welcome to My First GitHub Pages
+## Welcome to My First GitHub Pages
 
 # Who Am i :
 
@@ -50,22 +50,18 @@ Computers The Machine (Read06b)| https://3madov-77.github.io/learning-journal/co
 <hr>
 <br>
 
-# You can always contact me by :
+## You can always contact me by :
 
- ***GH ON :***
+ ***GH  ON :***
 
- <img src=https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png style ="padding-left: 50%">
-
- <a href="https://github.com/3madov-77"><img src=https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png width="200" height="200" style ="padding-left: 50%"></a>
- 
-**--------------------------------------------------------------**
+ ---------------------------![logo](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Conact me" ) ---------------------------
+[![alt text](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png "Click ME" )](https://github.com/3madov-77)
+ --------------------------------------------------------------
 
 ***Or Email Me ON :***
 
-<img src=https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png style ="padding-left: 50%">
-
-<a href="Emadzxy7@gmail.com"><img src=https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png width="200" height="200" style ="padding-left: 50%"></a>
-
-**--------------------------------------------------------------**
+---------------------------![logo](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Conact me")---------------------------
+[![alt text](https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png "Click ME")](Emadzxy7@gmail.com)
+ --------------------------------------------------------------
 
 
