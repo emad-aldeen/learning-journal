@@ -1,4 +1,5 @@
- its so hard to reach real success if you cant set your mind to think in right way, its so depressed to try alot and alot with no consequences(emoji).. but laitly i just descovird that is my thinkig way is horrbly wrong!
+ ## Fast intro :
+  its so hard to reach real success if you cant set your mind to think in right way, its so depressed to try alot and alot with no consequences(emoji).. but laitly i just descovird that is my thinkig way is horrbly wrong!
 
 # What Is Grouth Mindset :
 to let you understand what im talking about..there is 2 kinds of thinkig the fixed one and the Growth one well i know it seems Complex to you what is what im tlking about but just stay with me..have you ever seen someone that sccessed in something that you traying to gain it!!?? maybe you will think 'its hard felling.... will maybe it is but the harder will be if you just keep stuk in the same place!!
@@ -29,12 +30,16 @@ so the `steps` is:
 
 # What You Will Gain Else :
 will the:
-```
-. *Growth Mindset* will help you to be better teammate in your team and with others
-. *Growth Mindset* let you look to your self postively ass success person
-. *Growth Mindset* help you to grow inside your job and outside it
-. *Growth Mindset* can be your friend to achive more and more
-```
+
+. *Growth Mindset* ```will help you to be better teammate in your team and with others```
+. *Growth Mindset* ```let you look to your self postively ass success person```
+. *Growth Mindset* ```help you to grow inside your job and outside it```
+. *Growth Mindset* ```can be your friend to achive more and more```
+
+<br>
+<br>
+<hr>
+<br>
 
 # My 3 Secret Weapons To Keep **Growth Mindset** :
 
@@ -53,4 +58,5 @@ and thats it till now and thank you for reading.
  <br/>
  <br/>
  <br/>
+
  [`Back To The Main Page`](https://3madov-77.github.io/learning-journal/)

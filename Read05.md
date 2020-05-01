@@ -9,6 +9,8 @@ stylin languge that alows you to create rules that control the way that each elm
 - ***A declaration:*** witch mean the rules section witch refrence to the first part and looks like: `the rule: the property;}`
 so CSS declarations always sit inside curly brackets `{}` 
 
+<hr>
+
 # How to write CSS :
 so there is three esintals ways to write **CSS** :
 ## 1. The External Way:
@@ -17,6 +19,7 @@ when we write the whole css code in diferint file then link to it in the HTML co
 when you write the **CSS** code inside the same HTML code ***Under*** the Tag `<style>`
 ## 3. The Inline Way:
 when you write only the **CSS** rules in the same element line after attrbute `style="the rule name='the property'"`
+<hr>
 
 # Selctors in CSS :
 ther is alot of selectors i will mention them in table :
@@ -48,7 +51,7 @@ witch shortcut to (**RED** **GREEN** **BLUE**) and the values for each color sta
 #### - The hex codes :
 witch is six digits only start with `#`, and evry color has one
 
-2.  ## Background colors :
+2. ## Background colors :
 witch css spuort for each HTML element to had one, you have to secify the color you want or it will be defultly as white color..
 
 3. ## Hue Colors :
@@ -61,7 +64,7 @@ saturation, the color would be mostly gray
 5. ## Brightness colors :
 Brightness (or "value") refers to how much black is in a color, At maximum brightness, there would be no black in the color At minimum brightness, the color would be very dark
 
-6.  ## Contrast :
+6. ## Contrast :
 When picking foreground and background colors, it is important to ensure that there is enough contrast for the text to be legible
 <br>
 
@@ -86,7 +89,7 @@ For long spans of text, reducing the contrast a little bit improves readability
 it is easier to read when there is higher contrast between background and foreground colors (some times you can use it If you want people to read a lot of text on your page)
 <br>
 
-7.  ## The Opacity :
+7. ## The Opacity :
 witch is property lows you to specify the opacity of an element, and it should be number betwin 0.0 AND 1.0, it caled alpha value in some css attr like `rgb`
 
 <br>

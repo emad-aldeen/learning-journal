@@ -34,7 +34,9 @@ which allows you to start typing then the code completion aoutomaticly
  <br/>
  <br/>
  <br/>
+ <hr>
  <br/>
+
  [`Back To The Main Page`](https://3madov-77.github.io/learning-journal/)
 
 

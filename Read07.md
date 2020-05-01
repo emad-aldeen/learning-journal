@@ -52,4 +52,5 @@ and when we call that kind of functions we must to mention the informations valu
 <br>
 <hr>
 <br>
+
 [`Back To The Main Page`](https://3madov-77.github.io/learning-journal/)

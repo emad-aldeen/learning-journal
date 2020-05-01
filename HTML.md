@@ -1,4 +1,5 @@
-### so to make a perfect website ever you must know many things or colect it to helps you pages to sucsess..the important of them is:
+## Fast intro :
+so to make a perfect website ever you must know many things or colect it to helps you pages to sucsess..the important of them is:
 - ## How im targeting by my site :
 ~~"the entire world"~~ this will be your first wrong answear t is unlikely to be relevant to everyone cuse not every one use internet will intersted with your product or service, so wehen you know how your targeting you will be ready for the next question:
 

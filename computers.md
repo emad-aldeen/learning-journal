@@ -1,4 +1,5 @@
-* Computers helps us in the thinking way we are (raising stars, moving trains, OR even sloving you Homework..) infact computer uses un counted at all!! perfect machin that bult with sircts
+## Fast intro :
+Computers helps us in the thinking way we are (raising stars, moving trains, OR even sloving you Homework..) infact computer uses un counted at all!! perfect machin that bult with sircts
 
 # Computers History:
 the first compuer in the world was bult with wood and mewtal mechanical gears till the 20th century were the computers starts to use the elctroinc components, it was realy big and large!!(it taking big room), the point was to make an clucatore..
@@ -34,19 +35,20 @@ the sowftware is bunsh of coomands to do things same as (functions aidea) it wri
 <br>
 <hr>
 
-## What is OS :
+- ## What is OS :
 it is the master program with special abilities that manges how software uses the hardware of computer it helos you to install new programes by loding them inside your pc..
 <br>
 <br>
 <hr>
 
 > "Computers have potential to do all amzing thigs, but the only thing witch makes computers smart or useful is **you** when you learn to code you get yo define the problem you want to slove, and write software that turns those ideas into reality, that give you the power to build things that mater to you, your comunity, and the world.."
-<br> *my grandfather: 'Bill Gates' <3
+<br> *my grandfather : 'Bill Gates' <3
 
 
 <br>
 <br>
 <br>
+<hr>
 <br>
 
 [`Back To The Main Page`](https://3madov-77.github.io/learning-journal/)
