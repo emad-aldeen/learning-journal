@@ -27,8 +27,15 @@ im aiming to be a sowftware engenier in the future (inSha2Alah), but being a **G
 *And remember as i always say:*
 >## "Its hard to be success, But its not imposible."
 
+<br>
 
-
+ **want to know more?** 
+ ***[Click Me](https://3madov-77.github.io/side-projects/Me/index.html)***
+ 
+ <br>
+ <hr>
+ <br>
+ 
 # My Last Topics :
  
 |           Topic                |                          The link to get                         |
